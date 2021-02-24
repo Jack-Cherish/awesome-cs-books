@@ -23,7 +23,7 @@ C++ Primer [百度网盘链接](https://pan.baidu.com/s/1uyW6kg6J0KwA8JYUj7AFFA)
 
 机器学习实战 [百度网盘链接](https://pan.baidu.com/s/1lEz8POdx9V5Xu-RVMlBttA) 提取码：jack
 
-深度学习（花书） [百度网盘链接](https://pan.baidu.com/s/1drDJUf9OqSfxoicsk8J2gg) 提取码：jack
+深度学习（花书） [百度网盘链接](https://pan.baidu.com/s/1Pv3DbB2Eqp1oK0PlgTHxbA) 提取码：jack
 
 JackCui 机器学习实战笔记 [百度网盘链接](https://pan.baidu.com/s/11OI0NZ_Fv-ZJBpT8pmjlRw) 提取码：jack
 
