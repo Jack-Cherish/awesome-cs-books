@@ -6,7 +6,7 @@
 
 ## 书籍
 
-### 算法与数据结构类
+#### 算法与数据结构类
 
 LeetCode101（谷歌师兄刷题笔记）[百度网盘链接](https://pan.baidu.com/s/1txDItPwDrnG8mOloOFbGaQ) 提取码：m19c
 
@@ -14,13 +14,13 @@ LeetCode101（谷歌师兄刷题笔记）[百度网盘链接](https://pan.baidu.
 
 剑指Offer [百度网盘链接](https://pan.baidu.com/s/1rNBSsx_-NL2xHH-acWePGA) 提取码：jack
 
-### 编程基础
+#### 编程基础
 
 流畅的 Python [百度网盘链接](https://pan.baidu.com/s/1-YBEOYY45CYrbM4Zxb21Yw) 提取码：jack
 
 C++ Primer [百度网盘链接](https://pan.baidu.com/s/1uyW6kg6J0KwA8JYUj7AFFA) 提取码：jack
 
-### 机器学习
+#### 机器学习
 
 机器学习实战 [百度网盘链接](https://pan.baidu.com/s/1lEz8POdx9V5Xu-RVMlBttA) 提取码：jack
 
@@ -28,7 +28,7 @@ C++ Primer [百度网盘链接](https://pan.baidu.com/s/1uyW6kg6J0KwA8JYUj7AFFA)
 
 JackCui 机器学习实战笔记 [百度网盘链接](https://pan.baidu.com/s/11OI0NZ_Fv-ZJBpT8pmjlRw) 提取码：jack
 
-### 数学基础
+#### 数学基础
 
 线性代数及其应用 [百度网盘链接](https://pan.baidu.com/s/10FtcG4mweUWy810cirGGzg) 提取码：jack
 
@@ -37,17 +37,17 @@ JackCui 机器学习实战笔记 [百度网盘链接](https://pan.baidu.com/s/11
 
 ## 视频
 
-### 编程基础
+#### 编程基础
 
 小甲鱼 Python [百度网盘链接](https://pan.baidu.com/s/1-WasSZey8bZuEfp48bTOuw) 提取码：jack
 
-### 机器学习
+#### 机器学习
 
 吴恩达机器学习中英文字幕 [百度网盘链接](https://pan.baidu.com/s/1OglLhzB5gWHrK_pkAWF2Sg) 提取码：jack
 
 吴恩达深度学习中英文字幕 [百度网盘链接](https://pan.baidu.com/s/1TShDS2_jioxMRhFv2253aQ) 提取码：jack
 
-### 数学基础
+#### 数学基础
 
 MIT 的老教授 Gilbert Strang 的线性代数视频 [百度网盘链接](https://pan.baidu.com/s/1WktC95HL2GF0PKa311L5SQ) 提取码：jack
 
